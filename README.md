@@ -1,8 +1,8 @@
-# Interview Questions
+# Interview & Coding Assessment Questions
 
-This repository contains a list of **questions I faced during interviews** at various companies.  
+This repository contains a list of **questions I faced during coding assessments and interviews** at various companies.  
 
-Each company has its own folder containing a PDF with the questions asked during my interviews.  
+Each company has its own folder containing a PDF with the questions asked during assessments or interviews.  
 
 ---
 
@@ -17,8 +17,9 @@ Each company has its own folder containing a PDF with the questions asked during
 │   └── CompanyB_Questions.pdf
 └── CompanyC
     └── CompanyC_Questions.pdf
+
 ```
 
 
 - Each folder corresponds to a company.  
-- PDFs contain the interview questions I faced.  
+- PDFs contain the questions I faced.  
