@@ -8,14 +8,16 @@ Each company has its own folder containing a PDF with the questions asked during
 
 ## Repository Structure
 
-
+```text
+.
 ├── README.md
-├── CompanyA/
-│ └── CompanyA_Questions.pdf
-├── CompanyB/
-│ └── CompanyB_Questions.pdf
-└── CompanyC/
-└── CompanyC_Questions.pdf
+├── CompanyA
+│   └── CompanyA_Questions.pdf
+├── CompanyB
+│   └── CompanyB_Questions.pdf
+└── CompanyC
+    └── CompanyC_Questions.pdf
+
 
 
 - Each folder corresponds to a company.  
