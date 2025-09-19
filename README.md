@@ -22,4 +22,4 @@ Each company has its own folder containing a PDF with the questions asked during
 
 
 - Each folder corresponds to a company.  
-- PDFs contain the questions I faced.  
+- PDFs contain the questions faced by me and my classmates.  
